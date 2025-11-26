@@ -100,9 +100,6 @@ npm run dev
 ```
 Visit `http://localhost:3000` to launch the command center.
 
-## 📸 Screenshots
-*(Add your application screenshots here)*
-
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repo and submit a Pull Request.
 
