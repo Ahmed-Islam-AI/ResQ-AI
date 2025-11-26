@@ -1,0 +1,1684 @@
+{
+  "session-pgkmrm": {
+    "session_id": "session-pgkmrm",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:07:06.644250"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:07:06.644317",
+    "updated_at": "2025-11-24T12:07:06.644331"
+  },
+  "session-rao0b": {
+    "session_id": "session-rao0b",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:07:06.655072"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:07:06.655116",
+    "updated_at": "2025-11-24T12:07:06.655129"
+  },
+  "session-k7n2d9j": {
+    "session_id": "session-k7n2d9j",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:07:35.276770"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:07:35.276813",
+    "updated_at": "2025-11-24T12:07:35.276825"
+  },
+  "session-w6yk4i": {
+    "session_id": "session-w6yk4i",
+    "patient_vitals": {
+      "blood_pressure": "116/80",
+      "pulse": 41,
+      "spo2": 100,
+      "respiratory_rate": 18,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:07:35.292392"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:07:35.292477",
+    "updated_at": "2025-11-24T12:08:37.255213"
+  },
+  "session-q3a4v5": {
+    "session_id": "session-q3a4v5",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:16:38.480862"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:16:38.480900",
+    "updated_at": "2025-11-24T12:16:38.480913"
+  },
+  "session-7d3uoe": {
+    "session_id": "session-7d3uoe",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:16:38.898677"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:16:38.898710",
+    "updated_at": "2025-11-24T12:16:38.898721"
+  },
+  "session-taza98": {
+    "session_id": "session-taza98",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:16:43.719235"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:16:43.719273",
+    "updated_at": "2025-11-24T12:16:43.719286"
+  },
+  "session-6u3ktq": {
+    "session_id": "session-6u3ktq",
+    "patient_vitals": {
+      "blood_pressure": "90/80",
+      "pulse": 84,
+      "spo2": 99,
+      "respiratory_rate": 17,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:16:43.725138"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:16:43.725173",
+    "updated_at": "2025-11-24T12:18:00.511926"
+  },
+  "session-tstsh": {
+    "session_id": "session-tstsh",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:22:24.232924"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:22:24.232981",
+    "updated_at": "2025-11-24T12:22:24.232995"
+  },
+  "session-n5isns": {
+    "session_id": "session-n5isns",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:22:24.255243"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:22:24.255280",
+    "updated_at": "2025-11-24T12:22:24.255293"
+  },
+  "session-qxtm5k": {
+    "session_id": "session-qxtm5k",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:30:03.683463"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:30:03.683500",
+    "updated_at": "2025-11-24T12:30:03.683513"
+  },
+  "session-o2zbk8": {
+    "session_id": "session-o2zbk8",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-24T12:30:03.691243"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-24T12:30:03.691286",
+    "updated_at": "2025-11-24T12:30:03.691300"
+  },
+  "session-qvftk": {
+    "session_id": "session-qvftk",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T04:38:58.876595"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T04:38:58.877755",
+    "updated_at": "2025-11-25T04:38:58.877780"
+  },
+  "session-ebgyo": {
+    "session_id": "session-ebgyo",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T04:38:58.904268"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T04:38:58.904300",
+    "updated_at": "2025-11-25T04:38:58.904311"
+  },
+  "session-a3uhtu": {
+    "session_id": "session-a3uhtu",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T04:40:28.703565"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T04:40:28.703609",
+    "updated_at": "2025-11-25T04:40:28.703627"
+  },
+  "session-1zvuzj": {
+    "session_id": "session-1zvuzj",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T04:40:28.714228"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T04:40:28.714262",
+    "updated_at": "2025-11-25T04:40:28.714274"
+  },
+  "session-a2zn8k": {
+    "session_id": "session-a2zn8k",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T04:46:42.580210"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T04:46:42.580372",
+    "updated_at": "2025-11-25T04:46:42.580418"
+  },
+  "session-3bqz5q": {
+    "session_id": "session-3bqz5q",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T04:46:42.640563"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T04:46:42.640603",
+    "updated_at": "2025-11-25T04:46:42.640618"
+  },
+  "session-8y2ll": {
+    "session_id": "session-8y2ll",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T04:57:37.792766"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T04:57:37.792820",
+    "updated_at": "2025-11-25T04:57:37.792836"
+  },
+  "session-tul3ka": {
+    "session_id": "session-tul3ka",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T04:57:37.799271"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T04:57:37.799309",
+    "updated_at": "2025-11-25T04:57:37.799324"
+  },
+  "session-8mgtl": {
+    "session_id": "session-8mgtl",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:02:11.915443"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:02:11.915504",
+    "updated_at": "2025-11-25T05:02:11.915520"
+  },
+  "session-no9e1d": {
+    "session_id": "session-no9e1d",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:02:11.923532"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:02:11.923567",
+    "updated_at": "2025-11-25T05:02:11.923579"
+  },
+  "session-ij64k": {
+    "session_id": "session-ij64k",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:03:00.547263"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:03:00.547300",
+    "updated_at": "2025-11-25T05:03:00.547312"
+  },
+  "session-krlp3h": {
+    "session_id": "session-krlp3h",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:03:00.558743"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:03:00.558774",
+    "updated_at": "2025-11-25T05:03:00.558784"
+  },
+  "session-tf72w": {
+    "session_id": "session-tf72w",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:14:06.997737"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:14:06.997778",
+    "updated_at": "2025-11-25T05:14:06.997790"
+  },
+  "session-r90t1": {
+    "session_id": "session-r90t1",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:14:07.007036"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:14:07.007068",
+    "updated_at": "2025-11-25T05:14:07.007079"
+  },
+  "session-r2bhat": {
+    "session_id": "session-r2bhat",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:14:08.946797"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:14:08.946834",
+    "updated_at": "2025-11-25T05:14:08.946845"
+  },
+  "session-zckfwye": {
+    "session_id": "session-zckfwye",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:14:08.970545"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:14:08.970582",
+    "updated_at": "2025-11-25T05:14:08.970612"
+  },
+  "session-4leij": {
+    "session_id": "session-4leij",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:14:26.558620"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:14:26.558655",
+    "updated_at": "2025-11-25T05:14:26.558665"
+  },
+  "session-3w3ob": {
+    "session_id": "session-3w3ob",
+    "patient_vitals": {
+      "blood_pressure": "134/80",
+      "pulse": 66,
+      "spo2": 89,
+      "respiratory_rate": 16,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:14:26.625499"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:14:26.625536",
+    "updated_at": "2025-11-25T05:23:00.382620"
+  },
+  "session-464pr": {
+    "session_id": "session-464pr",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:27:25.107758"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:27:25.107796",
+    "updated_at": "2025-11-25T05:27:25.107808"
+  },
+  "session-4ivrc": {
+    "session_id": "session-4ivrc",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:27:25.128713"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:27:25.128762",
+    "updated_at": "2025-11-25T05:27:25.128776"
+  },
+  "session-29c859": {
+    "session_id": "session-29c859",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:32:22.862231"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:32:22.862264",
+    "updated_at": "2025-11-25T05:32:22.862275"
+  },
+  "session-kotcio": {
+    "session_id": "session-kotcio",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:32:22.875443"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:32:22.875474",
+    "updated_at": "2025-11-25T05:32:22.875485"
+  },
+  "session-qnoqn9": {
+    "session_id": "session-qnoqn9",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:45:02.430430"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:45:02.430485",
+    "updated_at": "2025-11-25T05:45:02.430496"
+  },
+  "session-pseezt": {
+    "session_id": "session-pseezt",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:45:02.448428"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:45:02.448461",
+    "updated_at": "2025-11-25T05:45:02.448472"
+  },
+  "session-40399k": {
+    "session_id": "session-40399k",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:53:39.403166"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:53:39.403202",
+    "updated_at": "2025-11-25T05:53:39.403213"
+  },
+  "session-yojngn": {
+    "session_id": "session-yojngn",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:53:39.409255"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:53:39.409288",
+    "updated_at": "2025-11-25T05:53:39.409300"
+  },
+  "session-zkw0fj": {
+    "session_id": "session-zkw0fj",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:53:57.189557"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:53:57.189597",
+    "updated_at": "2025-11-25T05:53:57.189610"
+  },
+  "session-xey0ec": {
+    "session_id": "session-xey0ec",
+    "patient_vitals": {
+      "blood_pressure": "115/80",
+      "pulse": 41,
+      "spo2": 91,
+      "respiratory_rate": 19,
+      "temperature": null,
+      "timestamp": "2025-11-25T05:53:57.202055"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T05:53:57.202098",
+    "updated_at": "2025-11-25T05:59:40.162270"
+  },
+  "session-549ggf": {
+    "session_id": "session-549ggf",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T06:03:12.494194"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T06:03:12.494238",
+    "updated_at": "2025-11-25T06:03:12.494249"
+  },
+  "session-8uuur": {
+    "session_id": "session-8uuur",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T06:03:12.500575"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T06:03:12.500611",
+    "updated_at": "2025-11-25T06:03:12.500622"
+  },
+  "session-229fno": {
+    "session_id": "session-229fno",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T06:06:44.163253"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T06:06:44.163292",
+    "updated_at": "2025-11-25T06:06:44.163304"
+  },
+  "session-jkc5q4": {
+    "session_id": "session-jkc5q4",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T06:06:44.200464"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T06:06:44.200505",
+    "updated_at": "2025-11-25T06:06:44.200517"
+  },
+  "session-uowjf": {
+    "session_id": "session-uowjf",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:03:36.793737"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:03:36.793794",
+    "updated_at": "2025-11-25T10:03:36.793810"
+  },
+  "session-jzamuw": {
+    "session_id": "session-jzamuw",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:03:36.812945"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:03:36.812980",
+    "updated_at": "2025-11-25T10:03:36.812993"
+  },
+  "session-vrxmlm": {
+    "session_id": "session-vrxmlm",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:03:57.836556"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:03:57.836611",
+    "updated_at": "2025-11-25T10:03:57.836625"
+  },
+  "session-anuxaf": {
+    "session_id": "session-anuxaf",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:03:57.859507"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:03:57.859567",
+    "updated_at": "2025-11-25T10:03:57.859587"
+  },
+  "session-djlfq": {
+    "session_id": "session-djlfq",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:10:24.677495"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:10:24.677563",
+    "updated_at": "2025-11-25T10:10:24.677580"
+  },
+  "session-3q29p2": {
+    "session_id": "session-3q29p2",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:10:24.693297"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [
+      {
+        "timestamp": "2025-11-25T10:12:38.880960",
+        "warning": "Cardiac event detected"
+      }
+    ],
+    "created_at": "2025-11-25T10:10:24.693341",
+    "updated_at": "2025-11-25T10:12:38.880980"
+  },
+  "session-ro1qey": {
+    "session_id": "session-ro1qey",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:17:51.263820"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:17:51.263881",
+    "updated_at": "2025-11-25T10:17:51.263898"
+  },
+  "session-675c3y": {
+    "session_id": "session-675c3y",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:17:51.314012"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:17:51.314049",
+    "updated_at": "2025-11-25T10:17:51.314063"
+  },
+  "session-zigaqm": {
+    "session_id": "session-zigaqm",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:25:11.410419"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:25:11.410477",
+    "updated_at": "2025-11-25T10:25:11.410493"
+  },
+  "session-azne5o": {
+    "session_id": "session-azne5o",
+    "patient_vitals": {
+      "blood_pressure": "123/80",
+      "pulse": 47,
+      "spo2": 100,
+      "respiratory_rate": 14,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:25:11.425061"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [
+      {
+        "timestamp": "2025-11-25T10:25:24.844328",
+        "warning": "Potential for malicious intent to cause harm, discussing tampering with medical equipment to induce a heart attack."
+      }
+    ],
+    "created_at": "2025-11-25T10:25:11.425097",
+    "updated_at": "2025-11-25T10:30:46.369915"
+  },
+  "session-lzbfd": {
+    "session_id": "session-lzbfd",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:37:35.714541"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:37:35.714584",
+    "updated_at": "2025-11-25T10:37:35.714600"
+  },
+  "session-z3wcu": {
+    "session_id": "session-z3wcu",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:37:35.728066"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:37:35.728101",
+    "updated_at": "2025-11-25T10:37:35.728113"
+  },
+  "session-a2hbh8": {
+    "session_id": "session-a2hbh8",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:54:42.514195"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:54:42.514234",
+    "updated_at": "2025-11-25T10:54:42.514247"
+  },
+  "session-m2usyd": {
+    "session_id": "session-m2usyd",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T10:54:42.650824"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T10:54:42.650866",
+    "updated_at": "2025-11-25T10:54:42.650881"
+  },
+  "session-beuxo": {
+    "session_id": "session-beuxo",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T11:06:09.000047"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T11:06:09.000087",
+    "updated_at": "2025-11-25T11:06:09.000101"
+  },
+  "session-ec8mdb": {
+    "session_id": "session-ec8mdb",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T11:06:09.023634"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T11:06:09.023670",
+    "updated_at": "2025-11-25T11:06:09.023683"
+  },
+  "session-e42ct": {
+    "session_id": "session-e42ct",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T11:11:08.353857"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T11:11:08.353945",
+    "updated_at": "2025-11-25T11:11:08.353973"
+  },
+  "session-b4fmln": {
+    "session_id": "session-b4fmln",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T11:11:08.383389"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T11:11:08.383424",
+    "updated_at": "2025-11-25T11:11:08.383437"
+  },
+  "session-pml7sg": {
+    "session_id": "session-pml7sg",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T11:11:33.707235"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T11:11:33.707270",
+    "updated_at": "2025-11-25T11:11:33.707283"
+  },
+  "session-zgxdy9": {
+    "session_id": "session-zgxdy9",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T11:11:33.758013"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T11:11:33.758129",
+    "updated_at": "2025-11-25T11:11:33.758147"
+  },
+  "session-lqnq1": {
+    "session_id": "session-lqnq1",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T11:13:21.340403"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T11:13:21.340442",
+    "updated_at": "2025-11-25T11:13:21.340455"
+  },
+  "session-95y7o": {
+    "session_id": "session-95y7o",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T11:13:21.361583"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T11:13:21.361628",
+    "updated_at": "2025-11-25T11:13:21.361642"
+  },
+  "session-wm8eve": {
+    "session_id": "session-wm8eve",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T11:48:45.432058"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T11:48:45.432097",
+    "updated_at": "2025-11-25T11:48:45.432111"
+  },
+  "session-cpga9d": {
+    "session_id": "session-cpga9d",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T11:48:45.452455"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T11:48:45.452489",
+    "updated_at": "2025-11-25T11:48:45.452502"
+  },
+  "session-fmsttu": {
+    "session_id": "session-fmsttu",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T12:02:31.653493"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T12:02:31.653546",
+    "updated_at": "2025-11-25T12:02:31.653561"
+  },
+  "session-p1ez3": {
+    "session_id": "session-p1ez3",
+    "patient_vitals": {
+      "blood_pressure": "125/80",
+      "pulse": 59,
+      "spo2": 88,
+      "respiratory_rate": 18,
+      "temperature": null,
+      "timestamp": "2025-11-25T12:02:31.774988"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T12:02:31.775095",
+    "updated_at": "2025-11-25T12:32:20.086986"
+  },
+  "session-0skxx": {
+    "session_id": "session-0skxx",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T12:32:24.464804"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T12:32:24.464860",
+    "updated_at": "2025-11-25T12:32:24.464874"
+  },
+  "session-5sylk": {
+    "session_id": "session-5sylk",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T12:32:24.541527"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T12:32:24.541574",
+    "updated_at": "2025-11-25T12:32:24.541592"
+  },
+  "session-794w4l": {
+    "session_id": "session-794w4l",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T12:32:24.564986"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T12:32:24.565029",
+    "updated_at": "2025-11-25T12:32:24.565049"
+  },
+  "session-1x8jgs": {
+    "session_id": "session-1x8jgs",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T12:32:24.633476"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T12:32:24.633501",
+    "updated_at": "2025-11-25T12:32:24.633518"
+  },
+  "session-swqa2p": {
+    "session_id": "session-swqa2p",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T12:32:24.645418"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T12:32:24.645452",
+    "updated_at": "2025-11-25T12:32:24.645465"
+  },
+  "session-wibkur": {
+    "session_id": "session-wibkur",
+    "patient_vitals": {
+      "blood_pressure": null,
+      "pulse": null,
+      "spo2": null,
+      "respiratory_rate": null,
+      "temperature": null,
+      "timestamp": "2025-11-25T12:32:24.677997"
+    },
+    "patient_history": {
+      "allergies": [],
+      "current_medications": [],
+      "medical_conditions": [],
+      "chief_complaint": null
+    },
+    "administered_medications": [],
+    "actions_taken": [],
+    "warnings_issued": [],
+    "created_at": "2025-11-25T12:32:24.678031",
+    "updated_at": "2025-11-25T12:32:24.678043"
+  }
+}
