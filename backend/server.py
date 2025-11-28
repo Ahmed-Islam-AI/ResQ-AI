@@ -176,6 +176,7 @@ class SessionContext(BaseModel):
     administered_medications: List[str] = Field(default_factory=list)
     actions_taken: List[str] = Field(default_factory=list)
     warnings_issued: List[WarningEntry] = Field(default_factory=list)
+    triage_result: Optional[Dict[str, Any]] = None
     created_at: str = Field(default_factory=lambda: datetime.utcnow().isoformat())
     updated_at: str = Field(default_factory=lambda: datetime.utcnow().isoformat())
 
@@ -218,6 +219,7 @@ class Hospital(BaseModel):
 
 class TriageRequest(BaseModel):
     """Request model for triage calculation"""
+    session_id: Optional[str] = None
     symptoms: List[str]
     can_walk: bool
     breathing: bool
@@ -336,6 +338,24 @@ HOSPITALS_DB = [
         "available_beds": 3,
         "specialties": ["Oncology", "Transplant", "Rare Diseases"],
         "status": "Diverting"
+    },
+    {
+        "id": "hosp_005",
+        "name": "Northside Medical Center",
+        "distance_miles": 12.1,
+        "total_beds": 350,
+        "available_beds": 45,
+        "specialties": ["Orthopedics", "Sports Medicine"],
+        "status": "Normal"
+    },
+    {
+        "id": "hosp_006",
+        "name": "Veterans Memorial Hospital",
+        "distance_miles": 4.2,
+        "total_beds": 200,
+        "available_beds": 10,
+        "specialties": ["Geriatrics", "Psychiatry"],
+        "status": "Busy"
     }
 ]
 
@@ -676,11 +696,27 @@ async def create_sbar_summary(
     )
 
     patient_context = f"""
-Patient Allergies: {', '.join(session.patient_history.allergies) if session.patient_history.allergies else 'None reported'}
-Current Medications: {', '.join(session.patient_history.current_medications) if session.patient_history.current_medications else 'None'}
-Medical Conditions: {', '.join(session.patient_history.medical_conditions) if session.patient_history.medical_conditions else 'Unknown'}
-Last Recorded Vitals: BP {session.patient_vitals.blood_pressure or 'N/A'}, HR {session.patient_vitals.pulse or 'N/A'}, SpO2 {session.patient_vitals.spo2 or 'N/A'}, RR {session.patient_vitals.respiratory_rate or 'N/A'}
-"""
+    Patient Vitals:
+    - Pulse: {session.patient_vitals.pulse} bpm
+    - SpO2: {session.patient_vitals.spo2}%
+    - BP: {session.patient_vitals.blood_pressure}
+    - Resp Rate: {session.patient_vitals.respiratory_rate}
+    
+    Triage Status:
+    {f"- ESI Level: {session.triage_result['esi_level']} ({session.triage_result['description']})" if session.triage_result else "- Not yet triaged"}
+    {f"- Presenting Symptoms: {', '.join(session.triage_result['symptoms'])}" if session.triage_result else ""}
+    
+    Medical History:
+    - Conditions: {', '.join(session.patient_history.medical_conditions)}
+    - Allergies: {', '.join(session.patient_history.allergies)}
+    - Medications: {', '.join(session.patient_history.current_medications)}
+    
+    Interventions:
+    - Meds Given: {', '.join([m['medication'] for m in session.administered_medications])}
+    
+    Transcript of Events:
+    {transcript_text}
+    """
 
     if not HAS_CEREBRAS_KEY:
         # Simple fallback summary when AI is unavailable
@@ -1237,6 +1273,29 @@ async def calculate_triage(request: TriageRequest):
                         ai_advice = "Monitor patient closely."
         except Exception as e:
             print(f"Triage AI Error: {e}")
+
+    return TriageResult(
+        esi_level=esi_level,
+        color=color,
+        description=description,
+        recommended_action=recommended_action,
+        ai_rationale=ai_rationale,
+        ai_advice=ai_advice
+    )
+
+    # Save to session if session_id provided
+    if request.session_id:
+        session = smart_memory.get_session(request.session_id)
+        if session:
+            session.triage_result = {
+                "esi_level": esi_level,
+                "description": description,
+                "symptoms": request.symptoms,
+                "ai_rationale": ai_rationale,
+                "ai_advice": ai_advice,
+                "timestamp": datetime.utcnow().isoformat()
+            }
+            smart_memory.update_session(session)
 
     return TriageResult(
         esi_level=esi_level,
