@@ -10,7 +10,7 @@ The system follows a modern client-server architecture, leveraging AI services f
 
 ```mermaid
 graph TD
-    User["Paramedic / Command Center"] -->|Interacts| FE["Frontend Dashboard (Next.js)"]
+    User["Paramedic / Command Center"] -->|Interacts| FE["Frontend Dashboard"]
     
     subgraph "Frontend Layer"
         FE -->|Visualizes| Map["Leaflet Map"]
@@ -18,7 +18,7 @@ graph TD
         FE -->|Inputs| TriageUI["Triage Assistant"]
     end
 
-    FE -->|HTTP / WebSocket| BE["Backend Server (FastAPI)"]
+    FE -->|HTTP / WebSocket| BE["Backend Server"]
 
     subgraph "Backend Layer"
         BE -->|Manages State| SM["SmartMemory Manager"]
@@ -29,8 +29,8 @@ graph TD
     end
 
     subgraph "AI Services Layer"
-        BE -->|Risk Analysis & Triage| Cer["Cerebras AI (Llama 3.1)"]
-        BE -->|Voice Alerts (TTS)| EL["ElevenLabs"]
+        BE -->|Risk Analysis & Triage| Cer["Cerebras AI"]
+        BE -->|Voice Alerts| EL["ElevenLabs"]
     end
 ```
 
